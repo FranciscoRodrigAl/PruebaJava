@@ -1,0 +1,27 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 20
+/project01/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/project01/!svn/ver/123/AppPersonal_Cerda_Rodriguez
+END
+dir_conflicts.prej
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/project01/!svn/ver/122/AppPersonal_Cerda_Rodriguez/dir_conflicts.prej
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/project01/!svn/ver/113/AppPersonal_Cerda_Rodriguez/build.xml
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/project01/!svn/ver/113/AppPersonal_Cerda_Rodriguez/manifest.mf
+END
